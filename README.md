@@ -1,4 +1,5 @@
-﻿# 歐付寶 全方位(All In One)金流介接Node.js 第二版
+# I developed during in O'Pay&ECPay as a QAE.
+# 歐付寶 全方位(All In One)金流介接Node.js 第二版
 ---
 
 ## 1. 介紹
